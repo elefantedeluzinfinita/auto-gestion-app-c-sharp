@@ -1,0 +1,12 @@
+C:\Users\Mayteelson\Documents\PERSONAL_Repository\CommunityWork\CommunityWork\bin\Debug\CommunityWork.exe.config
+C:\Users\Mayteelson\Documents\PERSONAL_Repository\CommunityWork\CommunityWork\bin\Debug\CommunityWork.exe
+C:\Users\Mayteelson\Documents\PERSONAL_Repository\CommunityWork\CommunityWork\bin\Debug\CommunityWork.pdb
+C:\Users\Mayteelson\Documents\PERSONAL_Repository\CommunityWork\CommunityWork\obj\Debug\CommunityWork.csprojAssemblyReference.cache
+C:\Users\Mayteelson\Documents\PERSONAL_Repository\CommunityWork\CommunityWork\obj\Debug\CommunityWork.Properties.Resources.resources
+C:\Users\Mayteelson\Documents\PERSONAL_Repository\CommunityWork\CommunityWork\obj\Debug\CommunityWork.csproj.GenerateResource.cache
+C:\Users\Mayteelson\Documents\PERSONAL_Repository\CommunityWork\CommunityWork\obj\Debug\CommunityWork.csproj.CoreCompileInputs.cache
+C:\Users\Mayteelson\Documents\PERSONAL_Repository\CommunityWork\CommunityWork\obj\Debug\CommunityWork.exe
+C:\Users\Mayteelson\Documents\PERSONAL_Repository\CommunityWork\CommunityWork\obj\Debug\CommunityWork.pdb
+C:\Users\Mayteelson\Documents\PERSONAL_Repository\CommunityWork\CommunityWork\obj\Debug\CommunityWork.ButtonTask.resources
+C:\Users\Mayteelson\Documents\PERSONAL_Repository\CommunityWork\CommunityWork\obj\Debug\CommunityWork.AlertAction.resources
+C:\Users\Mayteelson\Documents\PERSONAL_Repository\CommunityWork\CommunityWork\obj\Debug\CommunityWork.ControlPanel.resources
